@@ -1,2 +1,2 @@
 # Free Aseprite file
-to help you :)
+to help you :) (is a version older than 1.2.40)
